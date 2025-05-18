@@ -13,14 +13,14 @@
   "modes": {
     "window": {
       "title": "dot dodge",
-      "width": 700,
+      "width": 800,
       "height": 600,
-      "minWidth": 175,
+      "minWidth": 200,
       "minHeight": 150,
-      "center": true,
+      "center": false,
       "fullScreen": false,
       "alwaysOnTop": false,
-      "icon": "/resources/favicon.ico",
+      "icon": "/resources/favicon.png",
       "enableInspector": false,
       "borderless": false,
       "maximize": false,
